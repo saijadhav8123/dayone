@@ -8,9 +8,9 @@ Learnings about github and licenses
 3.Github is a website used as a cloud
 
 ## Licenses
-1.
-2.
-3.
+1.MIT
+2.BSD-2
+3.BSD-3
 
 Thank you
 heartly welcome
